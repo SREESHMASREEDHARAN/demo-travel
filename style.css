@@ -1,0 +1,122 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: rgba(12, 62, 114);
+}
+.banner-txt h5{
+    font-weight: bolder;
+    font-size: 50px;
+    text-shadow: 4px 4px #000000;
+}
+.banner-txt p{
+    font-weight: bolder;
+    font-size: 20px;
+    text-shadow: 2px 2px #000000;
+}
+.visit{
+    margin-top: 50px;
+}
+.visit h2{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(5, 5, 91);
+    text-align: center;
+    font-weight: bolder;
+}
+.image img{
+    width: 100%;
+}
+.btn1{
+    background-color: orangered;
+    color: white;
+    width: 50%;
+    height: 50px;
+}
+.sec2{
+    background-image: url('./Images/2.jpg');
+    background-size: cover;
+    width: 100%;
+    margin-top: 50px;
+    
+}
+.deatils{
+    background-color:rgba(255, 255, 255, 0.6);
+    height: 500px;
+    
+}
+
+.deatils h3{
+    margin-top: 50px;
+    text-align: center;
+}
+.deatils p{
+    text-align: justify;
+    margin: 50px;
+}
+
+.btn2{
+    text-align: center;
+    background-color: orangered;
+    color: white;
+    width: 30%;
+    height: 50px;
+    margin-left: 150px;
+}
+.hotel h2{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(5, 5, 91);
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bolder;
+}
+.htl{
+    padding: 50px;
+    
+}
+.htl img{
+    height: 200px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.review{
+    background-color: rgb(12, 62, 114);
+}
+.review h2{
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.review-person{
+    margin-top: 20px;
+    background-color: rgb(14, 75, 125);
+    color: white;
+    height: 350px;
+    width: 320px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    justify-content: space-between;
+    
+    margin-left: 50px;
+}
+
+.review-person p{
+    padding: 50px;
+    text-align: justify;
+    
+}
+.services{
+    padding: 20px;
+}
+
+.services h2{
+        font-family: 'Open Sans', sans-serif;
+        color: rgb(5, 5, 91);
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        font-weight: bolder;
+    }
+.services img{
+    height: 200px;
+}
